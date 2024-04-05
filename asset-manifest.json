@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/manasi-website/static/css/main.2c5666a0.css",
+    "main.js": "/manasi-website/static/js/main.4c2653dc.js",
+    "static/js/453.0cf6fdd1.chunk.js": "/manasi-website/static/js/453.0cf6fdd1.chunk.js",
+    "index.html": "/manasi-website/index.html",
+    "main.2c5666a0.css.map": "/manasi-website/static/css/main.2c5666a0.css.map",
+    "main.4c2653dc.js.map": "/manasi-website/static/js/main.4c2653dc.js.map",
+    "453.0cf6fdd1.chunk.js.map": "/manasi-website/static/js/453.0cf6fdd1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c5666a0.css",
+    "static/js/main.4c2653dc.js"
+  ]
+}
